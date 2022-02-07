@@ -1,0 +1,4 @@
+node_modules
+/mnemonic.js
+/infura.js
+/etherscan.js
